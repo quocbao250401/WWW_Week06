@@ -30,8 +30,6 @@
 ![image](/assets/Home.png)
   - Người dùng điền đầy đủ thông tin để thực hiện đăng ký
 ![image](/assets/Register.png)
-    + Trường hợp email đã được sử dụng thì hệ thống sẽ báo lỗi: "This email has been already token"
-![image](https://github.com/clemence128/JAVA_WWW_Week06/assets/86718789/ec7a49ca-bca0-4394-9926-56163c73d012)
     + Trường hợp đăng ký thành công thì hệ thống sẽ lưu thông tin của user và chuyển về trang home. User không cần đăng nhập lại.
 ![image](/assets/LoginSuccess.png)
 
